@@ -1,3 +1,4 @@
+**IMPORTANT -- As it was implemented as python notebooks, please run the notebooks manually because shell script might not work. Thanks for your understanding and cooperation.** 
 
 This sprint challenges you to clean messy Data into tidy format while maintaining granular Git history. **Time Limit:** 60 minutes of work, followed by class presentations. 
 

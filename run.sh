@@ -10,7 +10,7 @@ uv run jupyter nbconvert --to notebook --execute src/data_cleaning.ipynb --outpu
 echo "==> Running visualization notebook..."
 uv run jupyter nbconvert --to notebook --execute src/Phase_2.ipynb --output Phase_2.executed.ipynb
 
-echo "==> Pipeline complete."
+echo "==> Complete."
 echo "Check outputs in:"
 echo "  - data/preprocessed/"
 echo "  - paper/figs/"
